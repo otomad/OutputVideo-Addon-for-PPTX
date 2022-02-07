@@ -3,7 +3,7 @@
 
 This is the GUI version of the official subroutine `ActivePresentation.CreateVideo`. 
 
-Due to PowerPoint's export video function in the menu can only export 30fps video at most, but it has built-in related subroutines to export higher frame rate video. Therefore, a graphical interface is made to call this subroutine and configure other related options.
+Due to PowerPoint's export video function in the menu can only export 30fps video at most, but it has built-in related subroutine to export higher frame rate video. Therefore, a graphical interface is made to call this subroutine and configure other related options.
 
 ## How to use
 1. Download the lastest version of this add-on.
