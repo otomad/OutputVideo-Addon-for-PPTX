@@ -1,0 +1,11 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+	<ribbon>
+		<tabs>
+			<tab idMso="TabRecording">
+				<group id="OutputVideoGroup" label="导出视频" insertAfterMso="GroupSaveRecording">
+					<button id="OutputVideoButton" label="自定义导出视频" size="large" imageMso="ExportToVideoRecording" onAction="OutputVideoAction" screentip="自定义导出视频" supertip="使 PowerPoint 支持满帧 60fps 或其它形式导出视频。" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
