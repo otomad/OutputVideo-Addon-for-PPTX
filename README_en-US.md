@@ -10,7 +10,7 @@ Due to PowerPoint's export video function in the menu can only export 30fps vide
 
 ## How to use
 
-1. Download the lastest version of this add-on.
+1. [Download the lastest version of this add-on.](https://github.com/otomad/OutputVideo-Addon-for-PPTX/releases/latest)
 2. Open your Microsoft PowerPoint 2016+.
 3. Click "Option" in the PowerPoint Start Pane (aka Backstage view or File tab).
 4. Click "Add-ons" in the left side of the option form.

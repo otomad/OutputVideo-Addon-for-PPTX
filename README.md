@@ -10,7 +10,7 @@
 
 ## 如何使用
 
-1. 下载此加载项的最新版本。
+1. [下载此加载项的最新版本。](https://github.com/otomad/OutputVideo-Addon-for-PPTX/releases/latest)
 2. 打开 Microsoft PowerPoint 2016+。
 3. 单击 PowerPoint 开始屏幕（又称后台视图、文件选项卡）中的“选项”。
 4. 单击选项窗体左侧的“加载项”。
