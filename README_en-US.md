@@ -1,6 +1,8 @@
-# OutputVideo-Addon-for-PPTX
+# OutputVideo Addon for PPTX
 
 **A PowerPoint (2016+) add-on to help export 60fps+ video.**
+
+**English** | [简体中文](README.md)
 
 This is the GUI version of the official subroutine `ActivePresentation.CreateVideo`.
 

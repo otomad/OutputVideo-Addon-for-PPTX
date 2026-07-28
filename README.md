@@ -2,6 +2,8 @@
 
 **一个 PowerPoint (2016+) 加载项，可帮助导出 60fps+ 的视频。**
 
+[English](README_en-US.md) | **简体中文**
+
 这是官方 `ActivePresentation.CreateVideo` 子程序的 GUI 版本。
 
 由于 PowerPoint 菜单中的导出视频功能最多只能导出 30fps 的视频，但它实际上内置了相关子程序来导出更高帧率的视频。因此，我制作了一个图形界面来调用该子程序并允许配置其它相关选项。
